@@ -1,0 +1,11 @@
+Easily manage projects with monday.com
+In this week's roundup: Firefox gains locksmith-like powers, Samsung's Galaxy Store starts supporting Progressive Web Apps, CSS Subgrid is shipping in Firefox 70, and a new study confirms that users prefer to tap into content rather than scroll through it.
+Let's get into the news.
+Firefox now suggests a securely generated password when the user focuses an <input> element that has the autocomplete="new-password" attribute value. This option is also available via the context menu on any password field.
+(via The Firefox Frontier)
+Samsung has started adding Progressive Web Apps (PWA) to its app store, Samsung Galaxy Store, which is available on Samsung devices. The new “Web apps” category is visible initially only in the United States. If you own a PWA, you can send its URL to pwasupport@samsung.com, and Samsung will help you get onboarded into Galaxy Store.
+(via Ada Rose Cannon)
+According to a study commissioned by Google, the majority of people prefer tappable stories over scrolling articles when consuming content on the mobile web. Google is using this study to promote AMP Stories, which is a format for tappable stories on the mobile web.
+(via Alex Durán)
+CSS Subgrid is shipping in Firefox next month. This new feature enables grid items of nested grids to be put onto the outer grid, which is useful in situations where the wanted grid items are not direct children of the grid container.
+(via Šime Vidas)

@@ -1,0 +1,29 @@
+Software detected the woman almost six seconds before Uber's self-driving car struck her, investigators say, in the crash that would lead to her death and prompt the ride-share giant to slam the brakes on its autonomous vehicle testing.
+But the SUV didn't start to stop until about a second before impact. One big reason: It wasn't designed to recognize a pedestrian outside of a crosswalk, according to documents released this week by the National Transportation Safety Board after a 20-month investigation.
+Revelations that Uber failed to account for jaywalkers — with deadly results in Tempe, Arizona, in March 2018 — fuel long-standing objections from critics who accuse companies such as Uber of rushing to deploy vehicles not ready for public streets.
+They are skeptical that automakers eager to lead on industry-transforming technology are doing enough to avoid another tragedy as they continue to test out cars in the real world.
+"Even the most junior human driver knows to expect that people sometimes walk outside of crosswalks," said Jason Levine, executive director of the Center for Auto Safety, a Washington, DC-based nonprofit organization.
+"When we have public road testing that has programming that essentially chooses to ignore the realities of how people interact with public infrastructure, it's really dangerous."
+The bigger question for Levine: Could similar serious oversights plague other models across the self-driving industry?
+"The answer is, we don't know, because there's no requirements around how you program this technology before you put it on the road," he said.
+Levine said he wants to see federal regulation.
+Uber has made "critical program improvements" in the wake of Elaine Herzberg's death, spokeswoman Sarah Abboud said in a statement.
+The company's system is now able to handle scenarios such as jaywalking in which people or cyclists are not following road rules, she added, though human drivers may still need to intervene at times.
+She declined to say how long Uber had been aware of the inability to recognize a pedestrian outside a crosswalk and said the company is not commenting on specifics of the investigation because it is ongoing.
+"We deeply value the thoroughness of the NTSB's investigation into the crash and look forward to reviewing their recommendations once issued after the NTSB's board meeting later this month," Abboud said in a statement.
+The crash that spurred the inquiry is thought to be the first death related to the testing of autonomous vehicles.
+A human was in the driver's seat, but that did not keep the car from hitting Herzberg near a busy intersection, according to authorities. Herzberg was struck as she crossed the street and died at a hospital.
+Multiple factors contributed to the crash, NTSB documents show. Herzberg would probably be alive if Uber had not blocked its car from using a built-in automatic emergency brake, the board found, though it will not issue its decision on the cause of death until its meeting later in November.
+Another major problem was the software's inability to identify a person in the car's field of vision and its failure to predict how that person would move into the vehicle's path. Uber's system perceived Herzberg as a vehicle, a bicycle and an "unknown object" in the seconds before impact, according to the preliminary report.
+The death halted Uber's testing as scores of companies, including Google and General Motors, explored self-driving technology and drew strong reactions from many experts who warned of a need to hold vehicles deployed in public to stricter standards.
+But others argued that cars cannot be fine-tuned without real-world driving experience.
+Nine months later, Uber resumed its test drives in Pittsburgh. The company hopes to bring its self-driving cars back to other cities such as San Francisco, Abboud said Wednesday.
+But for now, it is focused on using human drivers to collect data on those particular locations so that it can incorporate that information into its testing in controlled environments, she said.
+Arizona was particularly hospitable to companies looking to test young autonomous tech in the years leading up to Herzberg's death.
+Before the crash, Governor Doug Ducey (R) said he welcomed Uber's self-driving cars "with open arms and wide open roads," while criticizing California for stifling such testing with "more bureaucracy and more regulation."
+Difficulties recognizing pedestrians are not unique to Uber's self-driving cars, said Jamie Court, who as president of the nonprofit group Consumer Watchdog has been critical of companies' willingness to deploy the technology.
+Many autonomous vehicles struggle to successfully navigate more than 10 or 20 miles without human intervention, he said, though some standouts such as Google's car can make it much farther.
+He said NTSB's findings on Uber's technology reinforce his views of autonomous vehicles' shortcomings.
+"Robot cars would do well driving in a world of robots, but not on roads and crosswalks where human beings have the right of way," Court said.
+2019 © The Washington Post
+This article was originally published by The Washington Post.

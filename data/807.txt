@@ -1,0 +1,8 @@
+Here at Futurism, we ask ourselves every day what the future looks like. And it looks like we finally found the answer: half a dozen robotics geeks from MIT standing in a circle, each remotely controlling a backflipping mini robot.
+In a video uploaded by MIT’s Biomimetics department, nine Mini Cheetah robots can be seen rustling up some autumn leaves and doing the occasional backflip.
+It’s a wholesome autumnal moment — or perhaps the last thing you see, if you subscribe to a “Black Mirror” vision of the future.
+Each Mini Cheetah can run at 6 mph and weighs only 20 pounds, about the size and weight of a medium-sized dog.
+“Mini Cheetah is just about the perfect size. 20 pounds is not too small but not so big that it’s dangerous or fragile,” director of MIT’s Biomimetics lab Sangbae Kim told IEEE Spectrum earlier this year. “We designed the machine to be able to absorb the impacts, jumping and landing and so on.”
+And no, they won’t murder you in your sleep — they may be mobile, but they don’t have a lot of smarts, as The Verge points out. While other quadripedal robots such as Boston Dynamics’ Spot can patrol on a predetermined route, these little guys aren’t able to do much more than run in circles and do backflips.
+READ MORE: It’s that time of year again — fall is here and packs of robot dogs are frolicking in the leaves
+More on robot herds: Watch a Pack of Boston Dynamics’ Creepy Robot Dogs Pull a Truck

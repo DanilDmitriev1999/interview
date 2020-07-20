@@ -1,0 +1,17 @@
+Bitcoin and cryptocurrency traders and investors have long been eying a return to bitcoin's all-time high set in late 2017. The bitcoin price, which began 2017 at under $1,000, surged to almost $20,000 in under 12 months–catapulting bitcoin and crypto into the mainstream and making many early adopters overnight millionaires.
+Now, researchers have cast fresh doubt over whether bitcoin's epic bull run happened organically, suggesting it may have been caused by single, large player manipulating the bitcoin market.
+Researchers John Griffin and Amin Shams, finance professors at the University of Texas and Ohio State University, respectively, found that around half of bitcoin's value between March 2017 and March 2018 was created by trades between bitcoin and tether, a so-called stablecoin with links to the British Virgin Islands-based Bitfinex bitcoin and cryptocurrency exchange.
+Bitfinex and Tether Ltd, which controls the stablecoin tether, are owned by the same people and the two companies share senior staff.
+Earlier this year, tether surpassed bitcoin in daily and monthly trading volume to become the most traded cryptocurrency on the market.
+According to the researchers, an unidentified Bitfinex account used tether to manipulate the bitcoin price by creating unprecedented demand for the digital token.
+Over the period, the total market value of bitcoin soared to $326 billion, from $16 billion at the beginning of the year. Bitcoin's market capitalization is now around $165 billion, making it the most valuable cryptocurrency by a considerable margin.
+"Even a fairly small amount of capital can manipulate the price of bitcoin," Griffin told the Wall Street Journal newspaper, which first reported the study.
+"If it’s not Bitfinex, it’s somebody they do business with very frequently."
+"We find that the identified patterns are not present on other flows, and almost the entire price impact can be attributed to this one large player," Griffin and Shams wrote.
+"We map this data across both blockchains and find that the one player or entity (labeled as 1LSg throughout the paper) is behind the majority of the patterns we document."
+The pair of researchers examined the entire transaction history of bitcoin and tether for the study–a data set of 200 gigabytes.
+The findings of the study will add fuel to speculation tether has been used to manipulate the bitcoin price. Last year, U.S. federal prosecutors began investigating whether tether trading had been used to move the bitcoin price.
+The study could potentially worry bitcoin traders, many of whom believe bitcoin's incredible 2017 surge was due to banks and other institutional investors eying the bitcoin and cryptocurrency market.
+Bitcoin's subsequent fall to around $3,500 in 2018 has been explained through regulatory fears and some institutions thought to be interested in bitcoin parking their crypto plans.
+This year, bitcoin has rallied somewhat, climbing back above $10,000 per bitcoin, following reports social media giant Facebook, among other big technology companies, are interested in bitcoin and blockchain technology.
+Facebook has announced plans to release its own bitcoin competitor, dubbed libra, some time next year but has run into fierce governmental push back, with some companies who had signed up to Facebook's independent Libra Association dropping out.

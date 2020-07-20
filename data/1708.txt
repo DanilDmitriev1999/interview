@@ -1,0 +1,9 @@
+Cortesía de Jane Manchun Wong, nuestra especialista favorita en hacer ingeniería inversa de algunas de las apps más populares que usamos, hemos podido echar un vistazo a la vista de conversaciones en hilos que está probando Twitter.
+El concepto es similar a lo que se puede obtener actualmente en la versión experimental de Twitter para iOS, pero mucho más organizado y refinado. Son hilos al estilo de foros como Reddit, que ordenan mejor la conversación.
+Así se ven de momento las respuestas en hilos en la versión experimental de Twitter para iOS
+En lugar de que todas las respuestas tengan la misma jerarquía, se ven mejor organizados con líneas que delimitan de dónde viene la respuesta y a que tuit exactamente se anidan.
+En Genbeta "Hola vecino de número": así es la moda de hablarle a desconocidos en WhatsApp
+La versión que hemos podido probar en iOS no luce tan limpia y organizada como las capturas de Jane en la web, pero de cualquier manera ambas son pruebas que no sabemos cuándo llegarán a todos los usuarios o si llegarán del todo y en la misma forma.
+Sabemos que en Twitter tienen en mente una serie de nuevas funciones que quieren añadir para 2020, y varias están relacionadas con darle al usuario más control sobre la conversación.
+Estos cambios dentro de la app lucen bien enfocados en dar mayor usabilidad a la red social. Y aunque de momento solo son experimentos, ya varias veces antes Manchun Wong ha encontrado funciones como las opciones de personalización de Twitter meses antes de que se lanzaran oficialmente.
+Artículo original

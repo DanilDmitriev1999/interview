@@ -1,0 +1,23 @@
+Taking a look back at seven days of news and headlines across the world of Android, this week’s Android Circuit includes the Galaxy S11 camera leak, a new Galaxy S10 for Christmas, Microsoft’s new Office for Android, the damaging Pixel 4 decision, OnePlus rolls out Android 10, Huawei’s return to Google, and Bill Gates’ Windows Mobile dream.Android Circuit is here to remind you of a few of the many things that have happened around Android in the last week (and you can find the weekly Apple news digest here).
+Samsung’s Galaxy S11 Camera Leak
+Samsung’s plans for next year’s Galaxy S11 handsets will naturally include a new camera, and more details on this periscope-based camera model leaked out this week. Along with specs detailing a x5 optical zoom, we have a codename for the camera module. Hubble:
+More here on Forbes.
+Is Samsung Planning A New Galaxy S10?
+Samsung has far more models than the Galaxy S class, and some of them are arguably better fits for users than the flagship S series. So the news that Samsung is working on a highly-specced phone could mean the long-rumored S10 Lite is here… or is it the highest possible A class? I asked the branding question earlier this week:
+More here on Forbes.
+Microsoft Rolls Office Into A Single App
+Although available as separate apps on Android (and iOS) for a number of years, this week Microsoft launched an integrated Office app to promote the suite o cloud-based services. Tom Warren reports:
+More at The Verge.
+The Design Decision That Damaged The Pixel 4
+Google’s Pixel 4 and Pixel 4XL have come up for criticism, and much of it is down to the design decision to focus on features that the majority of users will be looking for, as opposed to the cutting edge features (such as shooting 4K video at 60ps). While the usage patterns may agree with that approach, how influencers interact with and help promote devices online does not. David Ruddock explains why:
+More at Android Police.
+Older OnePlus Handsets Picking Up Android 10
+OnePlus has, as promised, begun the roll out of Android 10 to older devices. 2018’s devices - namely the OnePlus 6 and OnePlus 6T - will shortly see the updated OS available as an over the air download. It’s worth noting this is a staged roll-out so it may not be immediately available to you, which might be for the best as some users are reporting issues. Kristijan Lucic has details on Android Headlines:
+Read more here.
+Google Mobile Services Could Be Returning To Huawei Handsets
+Following last week’s look at the Honor 9X and how it featured the Google Mobile Services, parent company Huawei’s hopes of being removed from the US Entities List - which would allow Google to do business with the Chinese-based company - have been raised. Zak Doffman has more details:
+More here on the international issues.
+And Finally…
+How did Android become the dominant mobile operating system? Why did Microsoft lose that key battle in the first decade of the 21st century? And who does Bill Gates blame? Liam Tung has the answers:
+More at ZDNet.
+Android Circuit rounds up the news from the Android world every weekend here on Forbes. Don’t forget to follow me so you don’t miss any coverage in the future, and of course read the sister column in Apple Loop! Last week’s Android Circuit can be found here, and if you have any news and links you’d like to see featured in Android Circuit, get in touch!

@@ -1,0 +1,59 @@
+Apple’s iOS releases have come thick and fast since iOS 13 first launched in September. Some have been big releases with new features, like 13.2. But then, there have been mini-updates with a very specific focus.
+There was even the update that had a small audience: iOS 13.2.1 was released last week but you may never have seen it as it only appeared on your iOS device if you had a HomePod linked to it.
+That’s why, by the way, if you’re not a HomePod owner, today’s release seems to have made a jump, straight from 13.2 to this version, 13.2.2 which, helpfully, has a much wider reach. Here’s what’s in the new edition and how to get it. And, for completists, the full Apple changelog is at the very bottom of this post.
+How to get it
+It’s now available to download on compatible iPhones, with iPadOS 13.2.2 for suitable iPads. Go to the Settings app on the device and then choose General, then Software Update. Once you’ve clicked on Download and Install, it’ll do its business and you’ll be golden again before you know it.
+What’s in the update?
+Fixes, fixes, fixes. That’s what this update is all about, even if Apple insists there are improvements, there are scant new features.
+Also read:
+Apple AirPods Pro In-Depth Review: Snappy Design, Dazzling SoundForbes David Phelan
+Apps quitting unexpectedly
+One of the big gripes from iOS 13.2 onwards is that apps running in the background could quit when you weren’t wanting them to. Many users found this infuriating, as well they might. This iOS 13.2.2 upgrade means to fix this.
+Losing cellular signal
+Another annoying issue is that some iPhones have temporarily lost cell signal after a call. Well, that’s at least way better than losing it during a call, but still not ideal. That’s a big emphasis in this update. Similarly, mobile data was temporarily not available, also a big source of annoyance, and also something this update aims to sort out.
+Unreadable email replies
+Some replies of encrypted email messages between Exchange accounts were turning up unreadable, and this should be fixed with this update.
+Other issues
+The two other areas were very specific. In fact, I’ll quote Apple: the update aims to “address an issue where using the Kerberos single sign-on service in Safari may present an authentication prompt”.
+And finally, iOS 13.2.2 resolves “an issue where charging may be interrupted on YubiKey Lightning-powered accessories”.
+Lots of fixes, no new features, but if that means it doesn’t actually break stuff as it goes, many people will be happy with that.
+Fingers crossed, the next update will be iOS 13.3.
+The previous iOS 13 updates
+iOS 13.2.1
+Don’t worry if you missed this one. Unless you have a HomePod, you literally wouldn’t have seen it. It was there to fix issues caused by iOS 13.2 which made some HomePods turn into useless, oversized paperweights. What that update had meant to do was add new HomePod features. These arrived in all their glory with this corrective update, when iOS 13.2.1 went live on October 30, 2019, just 48 hours after iOS 13.2. Something of a record, surely?
+With iOS 13.2.1 HomePods were granted the ability to recognize different family members’ voices, music could be added to HomeKit scenes, you could hand off music, podcasts and phone calls just by bringing your iPhone near to the HomePod. Oh, and if you like ambient sounds, these arrived in this update, with the facility to set a sleep timer to these restful noises.
+iOS 13.2
+A big update, this. released on Monday, October 28, 2019. Marquee features include Deep Fusion, a new camera feature that improves images taken in medium and low light. Siri Privacy settings were updated with this release - also an important step forward. Foundations were laid for the new Research app which could have a big impact on health data collection. Oh, and scores of new emoji were set free. AirPods Pro in-ear headphones are supported in this release. More features including Siri reading out your messages were also included.
+iOS 13.1.3
+This was another surprise release, out on October 15, 2019. It was aimed at fixing issues more than anything else. Some devices didn’t ring or vibrate when a call came in – kind of important for a phone, right? That was fixed in this update. As was an issue with Voice Memos not downloading or problems where meeting invites didn’t open in Mail. A U.K.-focused repair was made so that Health data would display properly after British Summer Time ended (which was yesterday, October 27, by the way).
+Issues which saw the Apple Watch not pairing with an iPhone and notifications not coming through to the Watch were also fixed. Other fixes included apps not downloading after an iCloud Backup and better connectivity between Bluetooth hearing aids and Apple devices. Launch performance of apps in Game Center were addressed and one relating to Bluetooth connectivity in certain vehicles. Lots of fixes, then.
+iOS 13.1.2
+September 30, 2019 was the release date for this recent update, just one weekend later than 13.1.1. It’s another bug fixer to do with iCloud Backup, for instance which showed a progress bar even after being completed. A malfunctioning camera was fixed here, too, as was the flashlight failing to initiate. Like in 13.1.3, this update sought to address an issue with Bluetooth dropping on some vehicles. There was also a display issue for the iPhone and a fix for problems running shortcuts from Apple HomePod.
+iOS 13.1.1
+This update launched on September 27, 2019. The big element was a fix for the flaw which led some third-party keyboards access the iPhone even when permission hadn’t been granted.
+It also offered a solution to problems with battery drain, rather in contrast to the battery life gain which iOS 13 is all about.
+Restoring from a backup was a problem in this update as well as the latest one. Siri recognition is better and syncing in Reminders shouldn’t be slow any longer.
+iOS 13.1
+This came out on September 24, 2019 and sought to fix issues and squish bugs such as problems opening the camera properly, improperly behaving wallpapers, text entry issues and so on. There was also a fix to a battery management problem. New features included activating the U1 chip in the latest iPhones which gives the handsets a form of spatial awareness, improving AirDrop immediately and with other benefits set to follow. The Shortcuts app also saw extra support and more features. The facility to send your ETA to others from Maps was added.
+iOS 13
+Released on September 19, 2019, this was a very big release with an awful lot in it.  For full details, read the indepth analysis here.
+Features include:
+Dark mode to make the iPhone’s interface less glaring in a low-light environment, for instance. App developers can integrate Dark Mode into their apps so that the iPhone has a consistent look. Sign in with Apple lets you sign up to apps with your Apple ID and Apple will keep the site or app at arm’s length. You can sign in using Face ID or Touch ID as appropriate. Maps has been updated with a new street-level look and in-depth mapping on selected cities.
+Photos and Camera apps have been seriously altered with a new look to the Photos tab and significant editing upgrades. Siri sounds more natural and will offer personalized recommendations. Reminders has been completely overhauled, and Notes has a new gallery view. Find My combines Find My iPhone and Find My Friends. It will help to locate offline devices, too.
+QuickPath is the new way to enter text by swiping. It’s very cool.
+Text editing has been improved, though the elegant magnifying glass which used to appear when you touched a word, making it visible even though the word itself was hidden under your thumb, say, has gone. I hope it’s coming back soon.
+Among the miscellaneous treats are a pro-active system that tells you which apps have been accessing your location, for example. A message says how often it has done so in a set period of time and you can leave things as they are or adjust. It’s a very simple but highly reassuring detail.
+_________________________
+Follow me on Instagram by clicking here: davidphelantech and Twitter: @davidphelan2009
+More on Forbes:
+Google Buys Fitbit For $2.1 Billion: Here's What It MeansForbes David Phelan
+_________________________
+Here’s the full changelog as supplied by Apple.
+iOS 13.2.2 includes bug fixes and improvements for your iPhone. This update:
+•       Fixes an issue that could cause apps to quit unexpectedly when running in the background
+•       Resolves an issue where iPhone may temporarily lose mobile signal after a call
+•       Addresses an issue where mobile data may temporarily not be available
+•       Fixes an issue that caused replies to S/MIME encrypted email messages between Exchange accounts to be unreadable
+•       Addresses an issue where using the Kerberos single sign-on service in Safari may present an authentication prompt
+•       Resolves an issue where charging may be interrupted on YubiKey Lightning-powered accessories
+For information on the security content of Apple software updates, please visit this website: support.apple.com/kb/HT201222

@@ -1,0 +1,6 @@
+La desarrolladora chilena Camila Gormaz creó Nanopesos, un sencillo simulador en línea que permite experimentar y empatizar con las personas que ganan el sueldo mínimo o poco más.
+El objetivo es intentar mostrar una realidad de la vida diaria en Chile, tratando de reflejar gran parte de las demandas sociales que tienen hoy en día al país movilizado.
+Dentro de la descripción del software, explica cómo es el ejercicio para mostrar la realidad: "Este juego es un simulador de manejo de presupuesto inspirado en la desigualdad que hay en Chile. Para este ejercicio, se tomaron precios actuales de arriendos, copagos de seguros de salud, transporte y demases".
+Para iniciar la simulación, el usuario puede elegir si iniciar con el sueldo mínimo (301.000 pesos) o con 400.000, que es lo que gana la mitad de los trabajadores en Chile, según datos del INE. Seguido a esto, la trama consiste en que el jugador decide qué comprar, qué comer, cómo sociabilizar y qué regalar con un presupuesto que rápidamente baja.
+Cabe destacar, que en el simulador no se consideraron los pagos de AFP+Isapre/Fonasa.
+Inicia el simulador acá.

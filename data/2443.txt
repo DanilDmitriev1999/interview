@@ -1,0 +1,9 @@
+Eine Initiativbewerbung mit Foto in der Mailbox? Kann man sich doch mal anschauen, denken sich die meisten Empfänger - und sind schon in die Falle getappt.
+Eine neue Welle gefälschter Bewerbungsmails mit Verschlüsselungstrojaner im Anhang ist im Anmarsch. Davor warnt das Landeskriminalamt (LKA) Niedersachsen.
+Nachdem Kriminelle mit dieser Masche bereits im März 2019 viel Schaden angerichtet haben, landen nun wieder viele gefährliche E-Mails in den Postfächern, insbesondere in denen von Gewerbetreibenden und Unternehmen.
+In den Nachrichten findet sich ein kurzes Anschreiben mit Foto, das auf die angeblichen Bewerbungsunterlagen im mitgeschickten Text-Dokument verweist. Doch wer dieses öffnet, startet Schadsoftware - etwa einen aggressiven Trojaner, der im schlimmsten Fall alle Daten auf dem Rechner und gegebenenfalls auch auf anderen Computern im Netzwerk verschlüsselt.
+Insbesondere Nutzer, die viel oder regelmäßig mit Bewerbungen zu tun oder Zugriff auf öffentliche sowie allgemeine Mail-Postfächer haben, sollten gewarnt und sich der Gefahr von Schad-Software in Dateianhängen bewusst sein.
+Die frei erfundenen Bewerbernamen wechseln die Angreifer dem LKA zufolge regelmäßig. Aktuell seien zum Beispiel Doris Sammer, Lena Kretschmer, Eva Richter, Anna Moesel oder Mia Berger im Umlauf. Die Fotos in den Mails klauen sich die Kriminellen etwa von Seiten von Bewerbungsfotografen zusammen.
+Als Sicherheitsmaßnahme empfiehlt die Polizei deshalb auch, die sogenannte Makrofunktion in den Einstellungen der jeweils genutzten Office-Anwendung zu deaktivieren.
+Denn in den angehängten Dokumenten verstecke Makros sind das Einfallstor für den Trojaner. Bei Makros handelt es sich um automatisierte Befehlsabfolgen.
+Verwandte Themen

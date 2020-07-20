@@ -1,0 +1,11 @@
+To grow and survive, cancer cells need to eat, and the amino acid glutamine is a big part of their diet.
+In the 1950s, researchers tried using a compound called DON to prevent cancer cells from metabolizing glutamine, but the side effects of the drug in trials prevented its approval.
+Now, in an attempt to overcome those side effects, a team at the Johns Hopkins School of Medicine has created a version of DON that only becomes active when it reaches the tumor — and, tantalizingly, the new cancer drug worked even better than they’d hoped in mice.
+They published a study on the compound, JHU083, in the journal Science on Thursday.
+When the team tested JHU083 on mouse models of four types of cancer, they found it significantly decreased tumor size and increased the animals’ chances of survival. That wasn’t just because the compound cut off the tumor cells’ food supply, either — it also seemed to supercharge the immune systems’ cancer-destroying T cells.
+Another remarkable finding: when the Johns Hopkins team injected their treated mice with new tumor cells, almost all of the animals rejected the tumors, implying that their immune systems remembered the cancer and knew to attack it.
+“That T cells are not inhibited by this compound, that is the miracle [that may allow the drug to become a cancer treatment],” Stefan Kempa, a biochemist at the Max Delbrück Center for Molecular Medicine who wasn’t involved in the study, told Science, later adding that “if this compound can be translated to humans, it has a bright future.”
+READ MORE: Revamped cancer drug starves tumors in mice [Science]
+More on cancer treatments: 
+
+New Laser Zaps and Destroys Cancer Cells in Real Time

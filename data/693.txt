@@ -1,0 +1,8 @@
+NASHVILLE, Tenn. (AP) - Officials say the private information of nearly 44,000 TennCare members may have been stolen during a breach of the email system of a vendor for the state’s Medicaid agency.
+The Tennessean reports that Magellan Health Systems says information including members’ names and social security numbers was potentially compromised because a Magellan employee was subjected to a phishing scheme.
+Magellan says in a news release that the scheme allowed access to the employee’s email account, which contained members’ information. Magellan is TennCare’s pharmacy benefits manager.
+Magellan said a third-party investigation found no evidence the hacker who accessed company emails “actually accessed, viewed or attempted to use” the information, but members’ protected health information still may have potentially been accessed.
+A TennCare spokeswoman says 43,847 people may have been affected. Affected members are being notified.
+Information from: The Tennessean, http://www.tennessean.com
+Manage Newsletters
+Copyright © 2019 The Washington Times, LLC.

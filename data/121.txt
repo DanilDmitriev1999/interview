@@ -1,0 +1,32 @@
+Sign up for Nature Briefing
+Hello Nature readers, would you like to get this Briefing in your inbox free every day? Sign up here.
+A neural network that teaches itself the laws of physics could help to solve some of physics’ deepest questions. But first it has to start with the basics, just like the rest of us. The algorithm has worked out that it should place the Sun at the centre of the Solar System, based on how movements of the Sun and Mars appear from Earth.
+The machine-learning system differs from others because it’s not a ‘black box’ that spits out a result based on reasoning that’s almost impossible to unpick. Instead, researchers designed a kind of ‘lobotomized’ neural network that is split into two halves and joined by just a handful of connections. That forces the learning half to simplify its findings before handing them over to the half that makes and tests new predictions.
+Nature | 4 min read
+US President Donald Trump has nominated radiation oncologist Stephen Hahn to lead the Food and Drug Administration (FDA). If the Senate confirms Hahn, who is the chief medical executive of the University of Texas MD Anderson Cancer Center, he’ll be leading the agency at the centre of a national debate over e-cigarettes, prompted by a mysterious vaping-related illness that has made more than 2,000 people sick. A former FDA chief says Hahn’s biggest challenge will be navigating a regulatory agency under the Trump administration, which has pledged to roll back regulations.
+Nature | 4 min
+A long-awaited experimental result has found the proton to be about 5% smaller than the previously accepted value. The finding seems to spell the end of the ‘proton radius puzzle’: the measurements disagreed if you probed the proton with ordinary hydrogen, or with exotic hydrogen built out of muons instead of electrons. But solving the mystery will be bittersweet: some scientists had hoped the difference might have indicated exciting new physics behind how electrons and muons behave.
+Nature | 4 min read
+The United Kingdom should boost funding for basic research and create an equivalent of the prestigious European Research Council (ERC) if it doesn’t remain part of the European Union’s flagship Horizon Europe research-funding programme. That’s the conclusion of an independent review of how UK science could adapt and collaborate internationally after Brexit — now scheduled for 31 January 2020.
+Nature | 4 min read
+This week is a really special one for all of us at Nature: it’s 150 years since our first issue, published in November 1869. We’ve been working for well over a year on the delights of our anniversary issue, which you can explore in full online.
+10 extraordinary Nature papers
+A series of in-depth articles from specialists in the relevant fields assesses the importance and lasting impact of 10 key papers from Nature’s archive. Among them, the structure of DNA, the discovery of the hole in the ozone layer above Antarctica, our first meeting with Australopithecus and this year’s Nobel-winning work detecting an exoplanet around a Sun-like star.
+A network of science
+The multidisciplinary scope of Nature is revealed by an analysis of more than 88,000 papers Nature has published since 1900, and their co-citations in other articles. Take a journey through a 3D network of Nature’s archive in an interactive graphic. Or, let us fly you through it in this spectacular 5-minute video.
+Then dig deeper into what scientists learnt from analysing tens of millions of scientific articles for this project. (10 min read)
+150 years of Nature, in graphics
+An analysis of the Nature archive reveals the rise of multi-author papers, the boom in biochemistry and cell biology, and the ebb and flow of physical chemistry since the journal’s first issue in 1869. The evolution in science is mirrored in the top keywords used in titles and abstracts: they were ‘aurora’, ‘Sun’, ‘meteor’, ‘water’ and ‘Earth’ in the 1870s, and ‘cell’, ‘quantum’, ‘DNA’, ‘protein’ and ‘receptor’ in the 2010s. (6 min read)
+Evidence in pursuit of truth
+A century and a half has seen momentous changes in science, and Nature has changed along with it in many ways, says an Editorial in the anniversary edition. But in other respects, Nature now is just the same as it was at the start: it will continue in its mission to stand up for research, serve the global research community and communicate the results of science around the world. (5 min read)
+Take our poll
+Nature would also like to hear from you about how we can improve — please tell us your thoughts in the poll included at the end of the Editorial.
+Nature creative director Kelly Krause takes you on a tour of the archive to enjoy some of the journal’s most iconic covers, each of which speaks to how science itself has evolved. Plus, she touches on those that didn’t quite hit the mark, such as an occasion of “Photoshop malfeasance” that led to Dolly the sheep sporting the wrong leg.
+Nature | 6 min video
+In this anniversary edition of Backchat, Nature editor-in-chief Magdalena Skipper, chief magazine editor Helen Pearson and editorial vice president Ritu Dhand take a look back at how the journal has evolved over 150 years, and discuss the part that Nature can play in today's society. The panel also pick a few of their favourite research papers that Nature has published, and think about where science might be headed in the next 150 years.
+Nature Backchat Podcast | 18 min listen
+Subscribe to the Nature Podcast on iTunes, Google Podcasts or Spotify.
+Scientific glassblower Terri Adams uses fire and heavy machinery to hand-craft delicate scientific glass apparatus. “My workbench hosts an array of tools for working with glass, many of which were custom-made for specific jobs,” says Adams. “Each tool reminds me of what I first used it for and makes me consider how I might use it again.”
+Scientists should stop naming animals after terrible people — and consider renaming the ones that already are, argues marine conservation biologist and science writer David Shiffman. (Scientific American)
+Yesterday was Marie Skłodowska Curie’s birthday, and for the occasion, digital colourist Marina Amaral breathed new life into a photo of Curie in her laboratory. Breathe new life into my day by sending your feedback on this newsletter to briefing@nature.com.
+Flora Graham, senior editor, Nature Briefing
